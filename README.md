@@ -2,8 +2,6 @@
 
 FontScope is a modern web application that helps designers and developers visualize and explore Google Fonts combinations. It provides an intuitive interface for previewing font pairs and testing them with custom text.
 
-![FontScope Preview](https://images.pexels.com/photos/5412270/pexels-photo-5412270.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
 ## Features
 
 - 🎨 Preview 20+ carefully curated font combinations
