@@ -16,7 +16,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
           </div>
           <div className="flex items-center gap-4">
             <a 
-              href="https://github.com" 
+              href="https://github.com/jonasqin/FontScope" 
               target="_blank" 
               rel="noreferrer" 
               className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
