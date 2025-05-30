@@ -32,6 +32,25 @@ npm run dev
 
 4. Open your browser and visit `http://localhost:5173`
 
+## Deployment
+
+### Deploy to Vercel
+
+The easiest way to deploy FontScope is to use the Vercel Platform.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjonasqin%2FFontScope)
+
+1. Click the "Deploy with Vercel" button above
+2. Import the repository to Vercel
+3. Vercel will automatically detect the correct settings
+4. Your site will be deployed to a global URL
+
+### Deploy to Netlify
+
+You can also deploy FontScope to Netlify:
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jonasqin/FontScope)
+
 ## Usage
 
 1. Choose a font combination from the sidebar
